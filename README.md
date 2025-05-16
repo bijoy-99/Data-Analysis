@@ -1,6 +1,6 @@
 # 🛍️ Vrinda Store Data Analysis
 
-This project provides a comprehensive data analysis of Vrinda Store's 2022 performance using Excel and Python. The dataset includes customer orders, demographics, channels, categories, and geographic details, enabling insights into key business metrics and trends.
+This project provides a comprehensive data analysis of Vrinda Store's 2022 performance using Excel.The dataset includes customer orders, demographics, channels, categories, and geographic details, enabling insights into key business metrics and trends.
 
 ---
 
