@@ -21,13 +21,19 @@ This project provides a comprehensive data analysis of Vrinda Store's 2022 perfo
 - **Sales by Gender, Age Group, and Region**
 - **Channel-wise Order Distribution**
 - **Cancellation & Refund Rates**
+  
+ ## 📈 Insights
+
+- **Women** contribute to ~64% of total sales.
+- **Amazon** leads with over 35% of orders.
+- **Top 3 states**: Maharashtra, Karnataka, Uttar Pradesh.
+- Monthly growth trend is positive with increasing AOV.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 - **Excel** – Data cleaning and pivot-based analysis
----
 
 
 
